@@ -1,0 +1,1 @@
+insert into [ChatBot_Sanna_TesterDB].[dbo].[Item] (Item_name, Prize, Resources) values ('item6', 11, 21);
